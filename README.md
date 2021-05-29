@@ -1,2 +1,1 @@
- 📝
-# Training-Reports
+# Training-Reports 📝
