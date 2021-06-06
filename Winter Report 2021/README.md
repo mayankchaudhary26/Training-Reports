@@ -1,6 +1,6 @@
                                                                     🎓  WINTER TRAINING REPORT
                                                                                 On
-                                                                    MACHINE LEARNING - REGRESSION
+                                                                    Neural Networks & Deep learning
 
 
                                              Submitted to Guru Gobind Singh Indraprastha University, Delhi (India)
