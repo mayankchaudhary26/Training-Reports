@@ -49,39 +49,35 @@ Maharaja Surajmal Institute of Technology,New delhi for their support and for ma
 # Contents
 
 
-1. Simple Linear Regression                
+## 1. Simple Linear Regression                
 1.1  Build a generic simple linear regression function
 1.2  Residual Sum of Squares
 
-2. Multiple Regression
+## 2. Multiple Regression
 2.1   Running a multiple regression
 
-3. Assessing Performance
+## 3. Assessing Performance
 
-4. Ridge Regression
+## 4. Ridge Regression
 4.1   Polynomial regression, revisited
 4.2   Selecting an L2 penalty via cross-validation
 
-5. Feature Selection & Lasso
+## 5. Feature Selection & Lasso
 5.1   Learn regression weights with L1 penalty
 5.2   Selecting an L1 penalty
 5.3   Exploring the larger range of values to find a narrow range with the desired sparsity
 
-6. Nearest Neighbors & Kernel Regression
+## 6. Nearest Neighbors & Kernel Regression
 6.1   Split data into training, test, and validation sets
 6.2   Perform 1-nearest neighbor regression
 6.4   Make multiple predictions
 6.5   Choosing the best value of k using a validation set
 
-References	
+
+#### References	
 							
 •	Coursera online training course 
 •	Google Images
-
-
-
-
-
 
 
 
@@ -147,7 +143,7 @@ In this notebook, you will implement k-nearest neighbors regression. You will:
 	Choose the best value of k using a validation set
 
 
-References
+#### References
 
 
 The complete training report is based on the online training course from Coursera Machine Learning Course……………..https://www.coursera.org 
