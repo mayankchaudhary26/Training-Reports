@@ -74,12 +74,14 @@ Neural networks, also known as artificial neural networks (ANNs) or simulated ne
 Artificial neural networks (ANNs) are comprised of a node layers, containing an input layer, one or more hidden layers, and an output layer. Each node, or artificial neuron, connects to another and has an associated weight and threshold. If the output of any individual node is above the specified threshold value, that node is activated, sending data to the next layer of the network. Otherwise, no data is passed along to the next layer of the net-work.
 
 ![image](https://user-images.githubusercontent.com/56837137/120936271-aec79e80-c724-11eb-83c5-55a73fe17108.png)
-
+<br>
+<br>
                                      
 # Different types of Neural Networks in Deep Learning
  
 ![image](https://user-images.githubusercontent.com/56837137/120936596-3a8dfa80-c726-11eb-80b8-a2da7cf33f0d.png)
-
+<br>
+<br>
 
 
 # Standard/Artificial Neural Network (ANN)
@@ -95,7 +97,8 @@ Artificial Neural Network is capable of learning any nonlinear function. Hence, 
 One of the main reasons behind universal approximation is the activation function. Activation functions introduce nonlinear properties to the network. This helps the network learn any complex relationship between input and output.
  
 ![image](https://user-images.githubusercontent.com/56837137/120936614-58f3f600-c726-11eb-988e-4112511216c6.png)
-
+<br>
+<br>
 
 
 
@@ -107,7 +110,8 @@ A looping constraint on the hidden layer of ANN turns to RNN.
 •	RNNs share the parameters across different time steps. This is popularly known as Parameter Sharing. This results in fewer parameters to train and decreases the computational cost
  
 ![image](https://user-images.githubusercontent.com/56837137/120936619-614c3100-c726-11eb-99c2-e2d4c3c27958.png)
-
+<br>
+<br>
 
 
 # Convolution Neural Network (CNN)
@@ -117,7 +121,8 @@ Convolutional neural networks (CNN) are all the rage in the deep learning commun
 •	CNN captures the spatial features from an image. Spatial features refer to the ar-rangement of pixels and the relationship between them in an image. They help us in identifying the object accurately, the location of an object, as well as its relation with other objects in an image.
 
 ![image](https://user-images.githubusercontent.com/56837137/120936624-6a3d0280-c726-11eb-86fa-83bfc7cc3820.png)
-
+<br>
+<br>
 
 # Logistic Regression as a Neural Network
 
@@ -125,7 +130,8 @@ Logistic regression is a binary classification method. It can be modelled as a f
  
 ![image](https://user-images.githubusercontent.com/56837137/120936642-7cb73c00-c726-11eb-988f-bcd4a1606a91.png)
 ![image](https://user-images.githubusercontent.com/56837137/120936646-80e35980-c726-11eb-910d-548a8c725718.png)
-
+<br>
+<br>
 
 
 # What is a Gradient?
@@ -133,7 +139,8 @@ Logistic regression is a binary classification method. It can be modelled as a f
 A gradient measures how much the output of a function changes if you change the inputs a little bit
 It simply measures the change in all weights with regard to the change in error. You can also think of a gradient as the slope of a function. The higher the gradient, the steeper the slope and the faster a model can learn. But if the slope is zero, the model stops learning. Said it more mathematically, a gradient is a partial derivative with respect to its inputs.
 ![image](https://user-images.githubusercontent.com/56837137/120936654-893b9480-c726-11eb-807b-98c1fc660f84.png)
-
+<br>
+<br>
 
 # What is Vectorization ?
 
